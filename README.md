@@ -18,7 +18,7 @@
 <ul>
   <li>Hi, I'm BlackRavenoo.<li\>
   <li>I’m working as a Backend Developer in <a href="https://apeirocomp.ru/">APEIRO<a/> <img src="https://apeirocomp.ru/static/images/logo.png" height="15px"></img> company<li\>
-  <li>I am interested in Computer Science, DevOps, Linux, Automation and Rust.<li\>
+  <li>I am interested in Computer Science, DevOps, Linux, Rust and automation.<li\>
   <li>I am currently learning Rust, actix-web, Docker and PostgreSQL.<li\>
 </ul>
 
